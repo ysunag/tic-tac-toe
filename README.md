@@ -1,5 +1,5 @@
 # tic-tac-toe
-The project contains a client and a server for playing tic-tac-toe
+The project contains a client and a server for playing tic-tac-toe.
 
 ## Client 
 * Written in Java.
